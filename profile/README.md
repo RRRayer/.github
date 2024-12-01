@@ -5,5 +5,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRRRayer%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 개발한 게임
-**23.9 ~ 24.2 : 오디너리워즈(Ordinary Wars)**
+**23.9 ~ 24.2 : 오디너리워즈(Ordinary Wars)**   
 **24.7 ~ 25.3(예정) : 마기(Maggi)**
