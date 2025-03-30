@@ -1,5 +1,7 @@
 # 부산대 게임 개발 동아리 Rayer
 >안녕하세요, 부산대학교 게임 개발 동아리 Rayer 입니다!
+>
+![Logo](../sources/IMG_1123.PNG)
 
 ## Members
 ### PM
